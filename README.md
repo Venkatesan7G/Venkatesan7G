@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on LFS ?!
 - 📫 How to reach me 
   [🏛](https://www.linkedin.com/in/venkatesan-govindarajan/)
-  [🏛✉](mailto:venkatesangovindarajan03@gmail.com)
+  [✉](mailto:venkatesangovindarajan03@gmail.com)
 
 <!---
 Venkatesan7G/Venkatesan7G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
